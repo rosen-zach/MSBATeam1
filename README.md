@@ -1,8 +1,8 @@
 # Subset Selection
 
 The purpose of this project is to explain Subset Selection in the R language as well as running through an example.<br/>
-The example is provided by the textbook "An Introduction to Statistical Learning: with Applications in R".<br/>
-Chapter 6 Applied Exercise Number 8
+The lab and example are provided by the textbook "An Introduction to Statistical Learning: with Applications in R".<br/>
+Chapter 6: Lab Number 1 & Chapter 6: Applied Exercise Number 8
 
 ## Below is a link to the interactive webpage
 
