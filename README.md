@@ -8,10 +8,6 @@ Chapter 6: Lab Number 1 & Applied Exercise Number 8
 
 https://rosen-zach.github.io/Subset_Selection/docs/Subset_Selection_Markdown3
 
-## Getting Started
-
-If you'd like to run the R code for yourself, these instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 You will need to have the R language downloaded to your machine</br>
