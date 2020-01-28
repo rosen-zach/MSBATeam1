@@ -10,30 +10,16 @@ https://rosen-zach.github.io/Subset_Selection/docs/Subset_Selection_Markdown3
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+If you'd like to run the R code for yourself, these instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You will need to have the R language downloaded to your machine</br>
+Additionally, you will need the "ISLR" and "leaps" packages downloaded
 
 ```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+install.packages("ISLR")
+install.packages("leaps")
 ```
 
 ## Citation
