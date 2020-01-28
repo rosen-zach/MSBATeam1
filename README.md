@@ -10,8 +10,8 @@ https://rosen-zach.github.io/Subset_Selection/docs/Subset_Selection_Lesson
 
 ## Prerequisites
 
-You will need to have the R language/software environment downloaded to your machine</br>
-Additionally, you will need the "ISLR" and "leaps" packages downloaded
+You will need to have the R language/software environment downloaded to your machine.</br>
+Additionally, you will need the "ISLR" and "leaps" packages downloaded.
 
 ```
 install.packages("ISLR")
