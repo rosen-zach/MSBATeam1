@@ -6,7 +6,7 @@ Chapter 6: Lab Number 1 & Applied Exercise Number 8
 
 ## Below is a link to the interactive HTML document
 
-https://rosen-zach.github.io/Subset_Selection/docs/Subset_Selection_Markdown3
+https://rosen-zach.github.io/Subset_Selection/docs/Subset_Selection_Lesson
 
 ## Prerequisites
 
