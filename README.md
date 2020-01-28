@@ -8,7 +8,7 @@ Chapter 6: Lab Number 1 & Applied Exercise Number 8
 
 https://rosen-zach.github.io/Subset_Selection/docs/Subset_Selection_Markdown3
 
-### Prerequisites
+## Prerequisites
 
 You will need to have the R language downloaded to your machine</br>
 Additionally, you will need the "ISLR" and "leaps" packages downloaded
