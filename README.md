@@ -19,4 +19,4 @@ install.packages("leaps")
 ```
 
 ## Citation
-James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning: with applications in R. Corrected edition New York: Springer.
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning: with applications in R. New York: Springer.
