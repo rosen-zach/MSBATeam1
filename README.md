@@ -6,6 +6,8 @@ The purpose of this repository is to host files for our team projects.
 
 https://rosen-zach.github.io/MSBATeam1/subset_selection_lesson
 
+https://rosen-zach.github.io/MSBATeam1/TP2_Final
+
 ## References
 
 James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). An Introduction to Statistical Learning: with Applications in R . Springer.
